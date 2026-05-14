@@ -102,6 +102,18 @@ if ($db) {
        
 </head>
 <body>
+    <div class="fish-overlay" aria-hidden="true">
+        <span class="fish">🐟</span>
+        <span class="fish">🐟</span>
+        <span class="fish">🐟</span>
+        <span class="fish">🐟</span>
+        <span class="fish">🐟</span>
+        <span class="fish">🐟</span>
+        <span class="fish">🐟</span>
+        <span class="fish">🐟</span>
+        <span class="fish">🐟</span>
+        <span class="fish">🐟</span>
+    </div>
     <div class="container">
         <!-- Header -->
         <header class="header">
